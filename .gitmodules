@@ -1,0 +1,3 @@
+[submodule "site/web/app/themes/reaxtory"]
+	path = site/web/app/themes/reaxtory
+	url = git://github.com/ToxicSalt/reaxtory.git
